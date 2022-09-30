@@ -18,8 +18,8 @@
 
 ### Links
 
-- Live URL: [Add solution URL here](https://your-solution-url.com)
-- Repo URL: [Add live site URL here](https://github.com/sergichokheli/order-summary-component/)
+- Live URL: [github Live Link](https://sergichokheli.github.io/order-summary-component/)
+- Repo URL: [Github repo link](https://github.com/sergichokheli/order-summary-component/)
 
 ### Built with
 
